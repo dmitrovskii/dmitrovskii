@@ -1,6 +1,6 @@
 # Hi there, I'm Dmitry (@dmitrovskii) 👋
 
-**Python Developer | AI & LLM Enthusiast | Low-level Explorer**
+**Python Developer | AI & LLM Enthusiast | Arch Linux User**
 
 I build tools that bring order to chaos. Currently focused on bridging the gap between high-level AI implementations and low-level system performance. 
 

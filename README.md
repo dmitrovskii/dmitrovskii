@@ -6,19 +6,12 @@ I build tools that bring order to chaos. Currently focused on bridging the gap b
 
 ---
 
-### Featured Projects
-
-* **[Gemma AI Helper](https://github.com/dmitrovskii/gemma-ai-helper)**: A CLI assistant with persistent JSON-based memory architecture. (v1.0.2 Released)
-* **[CPU Temp Monitor](https://github.com/dmitrovskii/cpu-temp-monitoring)**: Lightweight Linux utility with buffered I/O logic. (2.8k+ views on Reddit)
-
----
-
 ### My Tech Stack
 
 * **Languages**: Python (Core/OOP), C (Learning internals)
 * **AI/LLM**: Google Gemini API, Memory Context Management
 * **OS/Env**: Arch Linux, Git
-* **Tools**: JSON, Pathlib, Collections (deque)
+* **Other**: Qdrant, AsyncIO
 
 ---
 

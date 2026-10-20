@@ -8,8 +8,8 @@ I build tools that bring order to chaos. Currently focused on bridging the gap b
 
 ### My Tech Stack
 
-* **Languages**: Python (Core/OOP), C (Learning internals)
-* **AI/LLM**: Google Gemini API, Memory Context Management
+* **Languages**: Python
+* **AI/LLM**: OpenAI, Memory Context Management
 * **OS/Env**: Arch Linux, Git
 * **Other**: Qdrant, AsyncIO
 
